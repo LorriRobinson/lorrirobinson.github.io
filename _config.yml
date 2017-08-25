@@ -3,7 +3,7 @@
 # ----------------------- #
 
 url: http://yoursite.com
-title: Your Awesome Site
+title: Lorri Robinson
 email: your-email@domain.com
 author: Your Name
 description: > # "Write an awesome description for your new site here. 
@@ -30,3 +30,5 @@ social:
     url: https://github.com/IronSummitMedia/startbootstrap
   - title: linkedin
     url: 
+
+#gh-pages branch
