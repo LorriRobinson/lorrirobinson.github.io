@@ -6,5 +6,3 @@ title: Artwork
 description: |
 ---
    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi auctor nisl at fringilla maximus. Curabitur at vestibulum mauris. Praesent a hendrerit leo. Morbi porttitor quam nec diam convallis, id vehicula magna finibus. In ipsum metus, mattis at finibus eu, feugiat eget diam. Ut condimentum ex quis metus tincidunt condimentum. Sed commodo augue tempor consequat pulvinar.
-
-Etiam sit amet ipsum in justo faucibus auctor. Proin ornare tellus a tincidunt interdum. Pellentesque lobortis pretium purus eu pulvinar. Maecenas vestibulum mauris vel sollicitudin posuere. Ut facilisis dui nec interdum consectetur. Nullam fermentum sem vitae nisl mattis cursus. Nullam consectetur purus mauris, in consectetur sapien convallis blandit. Morbi lacinia tortor non mi ultricies, non lacinia ante convallis. 
