@@ -168,6 +168,7 @@ p.copyright {
 popup-centred {
     padding: 20px 30px;
     text-align: left;
-    margin: 40px auto;
+    margin: 20px auto;
+    max-width:600px;
     position: relative;
 }
