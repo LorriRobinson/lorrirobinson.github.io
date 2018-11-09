@@ -166,9 +166,9 @@ p.copyright {
 }
 
 popup-centred {
-    padding: 20px 30px;
-    text-align: left;
-    margin: 20px auto;
-    max-width:600px;
-    position: relative;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
 }
