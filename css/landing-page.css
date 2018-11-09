@@ -164,3 +164,10 @@ footer {
 p.copyright {
     margin: 15px 0 0;
 }
+
+popup-centred {
+    padding: 20px 30px;
+    text-align: left;
+    margin: 40px auto;
+    position: relative;
+}
