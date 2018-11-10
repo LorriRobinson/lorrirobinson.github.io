@@ -165,7 +165,7 @@ p.copyright {
     margin: 15px 0 0;
 }
 
-popup-centred {
+div.popup-centred {
     background: #FFF;
     padding: 20px 30px;
     position: absolute;
