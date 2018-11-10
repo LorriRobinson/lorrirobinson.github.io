@@ -174,3 +174,8 @@ div.popup-centred {
     margin-right: -50%;
     transform: translate(-50%, 0%)
 }
+
+img.gallery {
+    padding: 0em 0em 1em;
+}
+
