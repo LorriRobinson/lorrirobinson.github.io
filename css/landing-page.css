@@ -167,10 +167,10 @@ p.copyright {
 
 div.popup-centred {
     background: #FFF;
-    padding: 20px 30px;
+    padding: 30px 30px;
     position: absolute;
     top: 50%;
     left: 50%;
     margin-right: -50%;
-    transform: translate(-50%, -50%)
+    transform: translate(-50%, 0%)
 }
