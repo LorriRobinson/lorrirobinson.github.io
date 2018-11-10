@@ -166,6 +166,8 @@ p.copyright {
 }
 
 popup-centred {
+    background: #FFF;
+    padding: 20px 30px;
     position: absolute;
     top: 50%;
     left: 50%;
